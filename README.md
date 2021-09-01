@@ -11,7 +11,10 @@
 **i don't always code but when i do**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     1 hr 5 mins     ████████████████░░░░░░░░░   64.06 % 
+JavaScript   18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.15 % 
+TypeScript   13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+YAML         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 ```
 <!--END_SECTION:waka-->
 
