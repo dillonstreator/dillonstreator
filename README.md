@@ -9,6 +9,9 @@
 
 **i don't always code but when i do**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=DillonStreator&show_icons=true&theme=gotham" alt="DillonStreator Github Stats" />
