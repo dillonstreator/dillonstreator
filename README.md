@@ -69,11 +69,11 @@
 **i don't always code but when i do**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   13 hrs 2 mins   ███████████▓░░░░░░░░░░░░░   47.10 % 
-CSS          4 hrs 11 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Go           3 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-JavaScript   2 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Makefile     1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+TypeScript   11 hrs 10 mins  ███████████░░░░░░░░░░░░░░   44.14 % 
+CSS          4 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Go           3 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+JavaScript   2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Makefile     1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
 <!--END_SECTION:waka-->
 
