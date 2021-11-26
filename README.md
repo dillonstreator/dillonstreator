@@ -76,8 +76,5 @@ YAML         3 mins          █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=DillonStreator&show_icons=true&theme=gotham" alt="DillonStreator Github Stats" />
-
-
 
 
