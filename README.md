@@ -69,11 +69,11 @@
 **i don't always code but when i do**
 <!--START_SECTION:waka-->
 ```text
-Go           14 hrs 53 mins  ██████████████▓░░░░░░░░░░   59.22 % 
-TypeScript   4 hrs           ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Markdown     1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-JSON         1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-JavaScript   1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Go           12 hrs 54 mins  ██████████████▒░░░░░░░░░░   57.86 % 
+TypeScript   3 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Markdown     1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+JavaScript   1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+JSON         1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
 <!--END_SECTION:waka-->
 
