@@ -69,11 +69,11 @@
 **i don't always code but when i do**
 <!--START_SECTION:waka-->
 ```text
-Go           9 hrs 15 mins   █████████████████████▒░░░   85.84 % 
-Terraform    51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-TypeScript   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-YAML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Docker       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Go           7 hrs 59 mins   ██████████████████▒░░░░░░   73.61 % 
+JavaScript   1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Terraform    51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+TypeScript   31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+YAML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 ```
 <!--END_SECTION:waka-->
 
