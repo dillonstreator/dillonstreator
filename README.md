@@ -69,6 +69,8 @@
 **i don't always code but when i do**
 <!--START_SECTION:waka-->
 ```text
+Total: 29 hrs 36 mins
+
 Go           15 hrs 49 mins  █████████████▒░░░░░░░░░░░   53.37 % 
 TypeScript   11 hrs 5 mins   █████████▒░░░░░░░░░░░░░░░   37.41 % 
 JSON         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
