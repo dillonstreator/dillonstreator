@@ -69,13 +69,13 @@
 **i don't always code but when i do**
 <!--START_SECTION:waka-->
 ```text
-Total: 31 hrs 34 mins
+Total: 32 hrs 53 mins
 
-Go           14 hrs 38 mins  ███████████▓░░░░░░░░░░░░░   46.31 % 
-TypeScript   14 hrs 17 mins  ███████████▒░░░░░░░░░░░░░   45.19 % 
-JSON         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-JavaScript   40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-YAML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Go           19 hrs 9 mins   ██████████████▓░░░░░░░░░░   58.12 % 
+TypeScript   11 hrs 9 mins   ████████▒░░░░░░░░░░░░░░░░   33.88 % 
+JSON         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+JavaScript   40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+YAML         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 <!--END_SECTION:waka-->
 
