@@ -69,11 +69,7 @@
 **i don't always code but when i do**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   2 hrs 33 mins   █████████████████▓░░░░░░░   70.87 % 
-Go           41 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Other        11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-YAML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
