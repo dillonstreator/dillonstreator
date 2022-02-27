@@ -68,9 +68,13 @@
 
 **i don't always code but when i do**
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+TypeScript   6 mins          ██████████████████████▓░░   91.28 %
+JSON         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
+
 <!--END_SECTION:waka-->
 
 
