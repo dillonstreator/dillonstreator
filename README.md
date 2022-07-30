@@ -26,11 +26,6 @@
     </a>
 </code>
 <code>
-    <a href="https://www.gatsbyjs.com/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://camo.githubusercontent.com/ba9df1e4c5f7c9f6503f2668f03a934b4553c5840dd6067ee1ab013c2af86afc/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6761747362796a732f6761747362796a732d69636f6e2e737667" alt="gatsby" width="30" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg">
-    </a>
-</code>
-<code>
     <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="nextjs" width="30" height="30">
     </a>
