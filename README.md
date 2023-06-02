@@ -39,12 +39,12 @@
 **i don't always code but when i do**
 <!--START_SECTION:waka-->
 
-```text
-Go                22 hrs 50 mins  ███████████████████████░░   92.08 %
-TypeScript        1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-SQL               14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Other             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Protocol Buffer   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+```txt
+Go                19 hrs 31 mins  ██████████████████████▓░░   90.47 %
+TypeScript        1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Other             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+SQL               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Protocol Buffer   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
