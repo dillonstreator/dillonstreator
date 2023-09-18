@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                4 hrs 25 mins   ████████████▓░░░░░░░░░░░░   51.19 %
-TypeScript        2 hrs 35 mins   ███████▒░░░░░░░░░░░░░░░░░   29.92 %
-Markdown          1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-Protocol Buffer   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-YAML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Go                7 hrs 33 mins   ████████████████░░░░░░░░░   63.40 %
+TypeScript        2 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   20.07 %
+Markdown          1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+Protocol Buffer   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+YAML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
