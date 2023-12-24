@@ -48,8 +48,3 @@ TSConfig          31 mins         ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dillonstreator&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
